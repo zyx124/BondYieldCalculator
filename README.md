@@ -10,7 +10,7 @@ P = C / (1 + r) ^ 1 + C / (1 + r) ^ 2 + ... + C / (1 + r) ^ N + F / (1 + r) ^ N
 
 If the price is known and the rate r can also be calculated through this equation.
 
-If we are calculating r, the polynomial equation can be difficult to solve. We can use [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method)
+If we are calculating r, the polynomial equation could be difficult to solve. [Newton's Method] is used (https://en.wikipedia.org/wiki/Newton%27s_method)
 to approximate the value into our desired range.
 
 Follow the instructions provided to input your variable values, the result will come out in a precision of 10^-7.
